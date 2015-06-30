@@ -7,4 +7,4 @@ else{
 	console.log('\n' + numero + ' MAYOR que 0,5 \n');
 }
 
-console.log('CAMBIO PARA PROBAR UNA NUEVA VERSIÓN');
+console.log('CAMBIO PARA PROBAR UNA NUEVA VERSIÓN 2');
